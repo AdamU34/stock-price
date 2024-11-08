@@ -23,8 +23,8 @@ This Stock Price Viewer is an interactive app that allows users to search for st
 - If there’s an error (e.g., the stock data cannot be fetched), an error message is shown to notify the user.
 
 ## Technologies Used
-React & Typescript: For building the user interface and managing state.
-Highcharts: For rendering interactive and customizable stock charts.
-React-Query: For managing API requests and caching the stock data efficiently.
-Axios: For making HTTP requests to fetch data from an external stock price API.
-React-Select: For creating a customizable, searchable, and async-enabled dropdown component to select stock tickers.
+- React & Typescript: For building the user interface and managing state.
+- Highcharts: For rendering interactive and customizable stock charts.
+- React-Query: For managing API requests and caching the stock data efficiently.
+- Axios: For making HTTP requests to fetch data from an external stock price API.
+- React-Select: For creating a customizable, searchable, and async-enabled dropdown component to select stock tickers.
